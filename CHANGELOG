@@ -1,0 +1,35 @@
+
+# V0.1.0
+
+-   init payzos payment plugin
+
+# V1.0.0 Beta:
+
+-   a good ui for payment page (with react, watch [payment-ui](https://gitlab.com/payzos/payment-ui))
+-   check a wallet address to verify a payment with a time and amount.
+-   wordpress rest api for manage payment.
+-   check is valid wallet hash in payment setting (default woocommerce payments page)
+
+# V1.0.0:
+
+-   fix critical error when woocommerce is disable
+-   fix payment-ui on someof templates
+-   empty cart and refresh woocommerce session after payment mark as success.
+
+# V2.0.0:
+
+-   add transaction page in admin dashboard
+-   make "PZ{18RANDOM NUMBER}" structure for payment_id
+-   smart installation
+
+# V3.0.0 :
+
+-   connect to Payzos.io (instead of huge proccesses in plugin)
+-   remove payment-ui
+
+
+# V3.1.0 :
+
+-   change name from wp-payzos-plugin-woocommerce to wp-payzos-for-woocommerce
+-   fix some security issue
+-   better documentation

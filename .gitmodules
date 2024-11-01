@@ -1,0 +1,3 @@
+[submodule "assets/payment-ui"]
+	path = assets/payment-ui
+	url = https://gitlab.com/payzos/payment-ui.git
